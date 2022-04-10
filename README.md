@@ -4,7 +4,7 @@ This is a simple REST API developed using node and express using Typescript and 
 
 ### URL api acces : 
 
-https://europe-west1-api-test-open.cloudfunctions.net/openApi/  !!! API disconnect
+https://europe-west1-api-test-open.cloudfunctions.net/openApi/  !!! API disconnected
 
 ### Features
 
