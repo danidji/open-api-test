@@ -12,7 +12,6 @@ export const readOneUser = async (id: string): Promise<IUser> => {
     return (await dbRef.child(id).get()).val();
 };
 
-
 export const readAllUsers = async (): Promise<IUser[]> => {
     return (await dbRef.get()).val();
 };

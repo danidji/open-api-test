@@ -73,3 +73,6 @@ functions/libs
 
 #service-accout file gcloud
 files/
+
+# lock files 
+*-lock.json
